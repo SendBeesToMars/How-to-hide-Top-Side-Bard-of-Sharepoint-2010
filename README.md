@@ -8,6 +8,7 @@ hide Top and Side Bar of Sharepoint 2010
 5) In the editor menu click **Format Text**
 6) on the far right field click **HTML > Edit HTML Source**
 7) in the box that pops up pase this code 
+
 ``<style type="text/css">
 
     #s4-ribbonrow, .ms-cui-topBar2, .s4-notdlg, .s4-pr s4-ribbonrowhidetitle, .s4-notdlg noindex, #ms-cui-ribbonTopBars, #s4-titlerow, #s4-pr s4-notdlg s4-titlerowhidetitle, #s4-leftpanel-content {display:none !important;}
